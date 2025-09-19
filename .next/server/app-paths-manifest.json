@@ -2,14 +2,14 @@
   "/_not-found": "app/_not-found.js",
   "/a-propos/page": "app/a-propos/page.js",
   "/catalogue/page": "app/catalogue/page.js",
-  "/commande/[id]/page": "app/commande/[id]/page.js",
-  "/checkout/page": "app/checkout/page.js",
   "/page": "app/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/commande/[id]/page": "app/commande/[id]/page.js",
   "/produit/[id]/page": "app/produit/[id]/page.js",
-  "/admin/dashboard/page": "app/admin/dashboard/page.js",
   "/admin/commandes/page": "app/admin/commandes/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
   "/admin/produits/page": "app/admin/produits/page.js",
   "/admin/utilisateurs/page": "app/admin/utilisateurs/page.js",
-  "/admin/page": "app/admin/page.js",
   "/admin/login/page": "app/admin/login/page.js"
 }
